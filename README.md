@@ -1,20 +1,10 @@
 # Url Feature Extraction & Classification  
 ### Using Neural Networks to classify various URLs  
   
-Authors:  
-> [Aaditya Jain](https://github.com/aadityajain1)    
-> [Anirudh Bhaskar](https://github.com/AnirudhBhaskar21)    
-> [Srikanth]( https://github.com/Srikanth-AIE)    
-> [Rohith Ramakrishnan](https://github.com/Rohith-2)
-<hr style=\"border:0.5px solid gray\"> </hr>
 
 ## Meduim Post:
 https://medium.com/@rrohith2001/url-feature-engineering-and-classification-66c0512fb34d  
 <hr style=\"border:0.5px solid gray\"> </hr>  
-
-## Acknowledgment:  
-__We would like to thank our professor [Premjith B](https://github.com/premjithb) for the assistance and guidance.__  
- <hr style=\"border:0.5px solid gray\"> </hr> 
  
 ## Set-Up:  
 __Pre-requisites :__ [conda](https://repo.anaconda.com/) and [git](https://git-scm.com/)     
